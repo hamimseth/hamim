@@ -1,0 +1,13 @@
+h4{
+    color: rgba(59, 61, 61, 0.794);
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+p{
+    text-align:left;
+    
+    font-size: 20px;
+}
