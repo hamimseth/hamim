@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    color: steelblue;
+    margin-top: 45px;
+   font: 30px sans-serif;
+}
+input{
+    padding: 10px;
+    font-size: inherit;
+}
+body{
+    background-color: #e8f3f8;
+}
+form{
+    margin: 20px auto;
+    width: 320px;
+    color: steelblue;
+}
+input[type="text"] {
+       display: block;
+       margin-bottom: 25px;
+       width: 100%;
+       border: 2px solid steelblue;
+       background-color: #FAF6D9;
+}
+input[type="radio"] {
+    margin: 0px 8px 25px 18px;
+}
+input[type="radio"]:first-child{
+    margin-left: 0px;
+}
+#submit{
+    height: 45px;
+    width: 344px;
+    border: none;
+    background: steelblue;
+    color: white;
+}
+input:focus {
+    background: white;
+}
+input[type="radio"]:checked + label {
+    font-weight: bold;
+    font-size: 18px;
+}
+#submit:focus {
+    height: 45px;
+    width: 344px;
+    border: solid steelblue;
+    background: white;
+    color: steelblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
